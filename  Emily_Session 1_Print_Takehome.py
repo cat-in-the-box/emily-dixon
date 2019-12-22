@@ -1,0 +1,3 @@
+print('I started to research my local election \nand quickly got distracted \nbecause the town website mentioned dog licensing \nas well as WOLF HYBRID licensing procedures and fees.')
+print('Questions I now need to research:'+ "\n1.) What are wolf hybrids?" + "\n2.) Are wolf hybrids ethical pets?")
+print('Are you also interested in exploring this? '+ '\b \nStart here: https://www.putneyvt.org/index.asp?SEC=F4D166CA-DDC5-4E36-A1E8-960CEF418828')
